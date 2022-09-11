@@ -21,13 +21,7 @@
   </div>
   <br/>
  
-   <object width="425" height="350">
-     <param name="movie" value="https://www.youtube.com/watch?v=Tc0TQRNExlA" />
-     <param name="wmode" value="transparent" />
-     <embed src="https://www.youtube.com/watch?v=Tc0TQRNExlA"
-            type="application/x-shockwave-flash"
-            wmode="transparent" width="425" height="350" />
-   </object>
+   [![Video](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=Tc0TQRNExlA)
 
   📞 CONTACT ME:
  
